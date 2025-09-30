@@ -101,7 +101,7 @@ backend-poc/
 ├── 04.CRUD-API/                # RESTful API and CRUD operations
 ├── 05.Mongodb-connection/      # MongoDB integration with Mongoose
 ├── 06.Auth-JWT/                # Authentication and JWT authorization
-├── 07.Exercises/            # Mini project integrating all concepts
+├── 07.Exercises/               # Mini project integrating all concepts
 └── README.md                   # Root README (you are here)
 ```
 
