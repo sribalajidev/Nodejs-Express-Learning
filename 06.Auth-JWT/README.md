@@ -4,6 +4,20 @@
 
 This Folder demonstrates **Authentication & Authorization** using Node.js and Express.js with JWT (JSON Web Tokens). It covers multiple approaches including traditional login, passwordless authentication, session vs token, protected routes, and role-based access control (RBAC).
 
+### Node Modules Required
+
+* express
+* express-session
+* jsonwebtoken
+* body-parser (optional, if not using express.json())
+* dotenv (optional, for managing environment variables)
+
+Install using:
+
+```bash
+npm install express express-session jsonwebtoken body-parser dotenv
+```
+
 ### Why Authentication & Authorization?
 
 * **Authentication**: Verifies the identity of the user.
